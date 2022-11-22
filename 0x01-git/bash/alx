@@ -1,1 +1,3 @@
-#!/bin/bash\n
+#!/bin/bash
+echo Schbin/bash
+echo "School"
